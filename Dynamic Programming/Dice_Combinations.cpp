@@ -1,5 +1,3 @@
-//Link to this code: https://cses.fi/paste/55446ad99eb2109abf134a/
-
 #include <bits/stdc++.h>
 using namespace std;
  
